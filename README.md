@@ -1,6 +1,8 @@
 # GithubSearch
-
+This is where someone is supposed to search his/her respositories.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
+
+## Live link https://faithngotho.github.io/Github-Search/
 
 ## Development server
 
@@ -9,6 +11,11 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Technologies used.
+
+1.Html
+2.Angular
+3.Bootstrap
 
 ## Build
 
