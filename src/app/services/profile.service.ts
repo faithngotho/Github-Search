@@ -29,7 +29,6 @@ getProfileInfo(){
       following:number;
       public_repos:number;
   }
-
   let promise = new Promise((resolve,reject)=>{
     this.http.get<ApiResponse>('https://api.github.com/users/' + this.username +'?access_token=' + environment.apikey).toPromise().then(response=>{
       this.user.avatar_url = response.avatar_url;
