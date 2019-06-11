@@ -39,7 +39,6 @@ getProfileInfo(){
       this.user.following = response.following;
       this.user.repos = response.public_repos;
       resolve()
-      
     },
     error=>{
     reject(error);
