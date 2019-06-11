@@ -8,11 +8,7 @@ import {ProfileService} from './services/profile.service'
 import {HttpClientModule} from '@angular/common/http';
 import { HighlightDirective } from './highlight.directive';
 
-@NgModule({
-  declarations: [
-    AppComponent,
-    ProfileComponent,
-    HighlightDirective
+htDirective
   ],
   imports: [
     BrowserModule,
