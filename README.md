@@ -24,7 +24,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 3.Bootstrap
 
 ## Contact Information
-If you have any isssue,question or concern kindly reach on faithwanagri248@gmail.com
+If you have any isssue,question or concern kindly reach me on faithwanagri248@gmail.com
 
 ## Build
 
