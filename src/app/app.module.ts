@@ -22,3 +22,5 @@ import { HighlightDirective } from './highlight.directive';
   ],
   providers: [ProfileService],
   bootstrap: [AppComponent]
+})
+export class AppModule { }
